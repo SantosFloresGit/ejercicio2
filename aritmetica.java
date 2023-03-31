@@ -1,4 +1,6 @@
 
+//Flores Apaza Santos Jaime
+
 package sumar;
 import java.io.*;
 import java.util.Scanner;
@@ -20,3 +22,4 @@ public class Sumar {
         System.out.println("El resultado es:" +sumar);
     }
 }
+
